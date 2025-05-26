@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
@@ -30,11 +31,11 @@ body{
 .apresentacao__texto-titulo {
     font-size: 36px;
     color: #f6f6f6;
-    font-family: 'krona-one', sans-serif;
+    font-family: 'Krona-one', sans-serif;
 }
 
 .apresentacao__texto-destaque{
-    color: blue;
+    color: #22D4FD;
 }
 
 .apresentacao__texto-principal{
